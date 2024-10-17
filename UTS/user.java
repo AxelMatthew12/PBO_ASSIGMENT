@@ -6,7 +6,7 @@ public class user {
         System.out.println(" your ID here : " + user_id);
     }
 
-    public void recover_password() {
+    public void recover_password() { // Recover needed use array pasword
         System.out.println("Your password  recoverd ! ");
     }
 
